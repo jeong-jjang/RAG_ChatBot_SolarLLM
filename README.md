@@ -1,5 +1,5 @@
 # RAG_ChatBot_SolarLLM
-SolarLLM을 이용한 RAG ChatBot service 개발
+SolarLLM 및 Solar Embedding 모델을 이용한 RAG ChatBot service 개발
 
 ## RAG(Retrieval-Augmented Generation)
 사용자가 쿼리를 보냈을 때, 질문에 대한 답을 지식 db에서 찾아서 LLM 모델을 사용하여 생성해내는 것
