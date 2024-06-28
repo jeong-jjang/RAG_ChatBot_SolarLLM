@@ -12,3 +12,6 @@
 2. Retrieval and Generation
 - Retrieve: 사용자의 검색 쿼리에 따라 DB 검색
 - Generate: LLM이 찾은 답변을 다시 문장으로 생성
+
+## 실행 코드
+streamlit run chatbot.py
