@@ -89,4 +89,4 @@ context = result["context"]
 
 print("Answer:", answer)
 print("Context:", context)
-출처: https://faiiry9.tistory.com/150 [데싸 되기:티스토리]
+
